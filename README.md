@@ -17,13 +17,13 @@
 
 <div align="center">
     <!-- Replace href with your links -->
-  <h2>🌐Connect with me</h2>
+  <h2>🌐 Connect with me 🌐</h2>
   <p>To connect with me, you can find my professional details on LinkedIn. Feel free to reach out for collaborations, opportunities or just to exchange ideas about the latest in software development and technology! </p>
     <a href="https://www.linkedin.com/in/pranitha-gudla-3921b91b5/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<h2 align="center" class="section-heading">💻 Programming Languages 💻</h2>
 <p align = "center"> As a versatile .NET developer, I have honed my skills in a variety of programming languages, each playing a crucial role in my toolkit. Here are the languages I utilize to transform complex challenges into elegant solutions.</p>
 <div align="center">
     <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -50,6 +50,20 @@
 <h2 align="center" class="section-heading">☁️ Cloud Technologies ☁️</h2>
 <p align="center">In the dynamic landscape of .NET full stack development, I excel in harnessing advanced cloud platforms and technologies to design, implement, and oversee scalable, resilient, and fault-tolerant systems. Here’s an overview of the cloud technologies where I specialize:</p>
 <div align="center">
-    
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
 </div>
+<h2 align="center" class="section-heading">♾️ DevOps & Other Tools 🧰</h2>
+<p align="center">To strive in the fast-paced world of Software Development, I additionally specialize in leveraging cutting-edge automation tools and continuous integration/continuous deployment (CI/CD) practices to streamline workflows and enhance operational efficiency. Here’s an overview of the DevOps and other tools at which I excel.</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img src="https://img.shields.io/badge/SSIS%20SQL%20Server%20Integration%20Services-brown?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/SSRS%20SQL%20Server%20Reporting%20Services-maroon?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
 
