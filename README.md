@@ -23,6 +23,12 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+<!---<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/pranithagudla/pranithagudla/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/pranithagudla/pranithagudla/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>--->
 <h2 align="center" class="section-heading">💻 Programming Languages 💻</h2>
 <p align = "center"> As a versatile .NET developer, I have honed my skills in a variety of programming languages, each playing a crucial role in my toolkit. Here are the languages I utilize to transform complex challenges into elegant solutions.</p>
 <div align="center">
@@ -65,5 +71,23 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Step into my GitHub realm and witness the artful dance of code, coffee, and collaboration! Take a peek at the milestones that mark my digital journey—it's a journey fueled by passion, powered by caffeine, and enriched by consistency.</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranithagudla&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=pranithagudla&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
 
+<!--- <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranithagudla&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranithagudla&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranithagudla&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranithagudla&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>--->
+</div>
 
