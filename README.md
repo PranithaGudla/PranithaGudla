@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/pranithagudla/pranithagudla/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/pranithagudla/pranithagudla/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>--->
+
 <h2 align="center" class="section-heading">💻 Programming Languages 💻</h2>
 <p align = "center"> As a versatile .NET developer, I have honed my skills in a variety of programming languages, each playing a crucial role in my toolkit. Here are the languages I utilize to transform complex challenges into elegant solutions.</p>
 <div align="center">
@@ -90,4 +91,7 @@
     </tr>
  </table>--->
 </div>
-
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranithagudla&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
