@@ -72,6 +72,18 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+<h2 align="center" class="section-heading"> 🤖 ML & Data Science Skillset 🤖 </h2>
+<p align="center">Machine learning and data science form the cornerstone of my analytical approach, offering the essential methodologies and tools for deriving actionable insights and crafting intelligent solutions. With a focus on advanced algorithms and statistical models, my expertise spans across a diverse array of frameworks and technologies carefully selected to expedite analysis and ensure robust functionality. </p>
+<p align="center">Python libraries I have used are -</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/scipy-brightgreen?style=for-the-badge&logo=scipy&logoColor=white" />
+    <img src="https://img.shields.io/badge/matplotlib-blue?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/plotly-0089D6?style=for-the-badge&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tkinter-red?style=for-the-badge&logo=tkinter&logoColor=white" />
+</div>
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Step into my GitHub realm and witness the artful dance of code, coffee, and collaboration! Take a peek at the milestones that mark my digital journey—it's a journey fueled by passion, powered by caffeine, and enriched by consistency.</p>
@@ -95,6 +107,7 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranithagudla&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
