@@ -72,9 +72,9 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
-<h2 align="center" class="section-heading"> 🤖 ML & Data Science Skillset 🤖 </h2>
+<h2 align="center" class="section-heading"> 🤖 Machine Learning Libraries & Algorithms 🤖 </h2>
 <p align="center">Machine learning and data science form the cornerstone of my analytical approach, offering the essential methodologies and tools for deriving actionable insights and crafting intelligent solutions. With a focus on advanced algorithms and statistical models, my expertise spans across a diverse array of frameworks and technologies carefully selected to expedite analysis and ensure robust functionality. </p>
-<p align="center">Python libraries I have used are -</p>
+<p align="center">I excel in harnessing powerful libraries to deliver sophisticated solutions. My expertise encompasses a diverse array of Python libraries, including: -</p>
 <div align="center">
     <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -83,6 +83,25 @@
     <img src="https://img.shields.io/badge/plotly-0089D6?style=for-the-badge&logo=plotly&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/Tkinter-red?style=for-the-badge&logo=tkinter&logoColor=white" />
+</div>
+<p align="center">In addition to python libraries, I posses a profound passion for transforming data into actionable insights and am a seasoned professional specializing in the following machine learning algorithms -</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Linear%20Regression-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Logestic%20Regression-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Decision%20Trees-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Random%20Forest-006400?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Support%20Vector%20Machines-brown?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/K--Nearest%20Neighbours-8B4CE4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/K--Means-EFC3CA?style=for-the-badge" />
+</div>
+<h2 align="center" class="section-heading"> 📊 Data Science Tools and Method 📊 </h2>
+<p align="center">My journey in data science began with a solid foundation in statistics and machine learning, which I have since complemented with proficiency in a diverse array of tools.I am adept at designing and implementing scalable data pipelines, conducting thorough exploratory data analysis, and developing predictive models that drive informed business decisions. </p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-brown?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Natural%20Language%20Processing-060270?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=anaconda&logoColor=white" />
+  
 </div>
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
